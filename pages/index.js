@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Nosso futuro é decidido por nossas ações, não palavras</h1>
+    return <h1>Aqui trago flores, para a mais linda rosa do meu jardim!🌹🌹🌹</h1>
 }
 
 export default Home;
